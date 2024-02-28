@@ -11,7 +11,7 @@ Please follow this [repo](https://github.com/charlesq34/pointnet2).
 The ModelNet40 can be downloaded from [here](https://modelnet.cs.princeton.edu/).
 
 ## Training and Evaluating
-Pretrained model used in the paper can be found in [here](https://drive.google.com/drive/folders/1JBYkdO2GlW_wKWvUXNDxrf8PQIJMuorN?usp=sharing). Or, you can train your own model from scratch. The attack code we used comes from [here].(https://github.com/GuanlinLee/CCNAMS)
+Pretrained model used in the paper can be found in [here](https://drive.google.com/drive/folders/1JBYkdO2GlW_wKWvUXNDxrf8PQIJMuorN?usp=sharing). Or, you can train your own model from scratch. The attack code we used comes from [here](https://github.com/GuanlinLee/CCNAMS).
 ```
 python train.py
 ```

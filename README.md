@@ -12,5 +12,5 @@ The ModelNet40 can be downloaded from [here](https://modelnet.cs.princeton.edu/)
 
 ## Training and Evaluating
 Pretrained model can be found in [here](https://drive.google.com/drive/folders/1JBYkdO2GlW_wKWvUXNDxrf8PQIJMuorN?usp=sharing). Or, you can train your own model from scratch.
-
-`python train.py`
+```
+python train.py

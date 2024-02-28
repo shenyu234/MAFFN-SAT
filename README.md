@@ -23,3 +23,7 @@ We thank the authors of following works for opening source their excellent codes
 * [CCN](https://github.com/GuanlinLee/CCNAMS)
 
 We also thank the authors of related papers/repos for their inspiring discussions with us.
+
+## References
+Please refer to our work "MAFFN-SAT: 3D Point Cloud Defense via Multi-view Adaptive Feature Fusion and Smooth Adversarial Training"  
+Under Reviewing... Coming soon...
